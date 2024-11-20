@@ -1,5 +1,3 @@
-Olá
-
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -23,18 +21,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+DOENÇA CELÍACA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apresentação sobre a doença celíaca: o que é, quais os sintomas, riscos, como diagnosticar e como se cuidar.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+COPILOT
+GAMMA.APP
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Após definir tema do projeto, elaborei prompt do assunto para pesquisa no copilot.
+Pedi sugestão de ferramentas IA generativas para criar apresentação, analisei as ferramentas e então optei por utilizar o gamma.app
+Simulei uma apresentação a partir do conteúdo gerado pelo copilot e também criei uma nova apresentação diretamente no gamma.app, que gostei mais por ser mais completa. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Elaboração de síntese completa sobre a doença celíaca.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
